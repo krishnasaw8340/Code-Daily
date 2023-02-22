@@ -1,4 +1,10 @@
-
+// METHOD 1 
+// Algorithm:
+Step1: Take arr[0] and arr[1] as a min & max;
+Step2: Check for both element which one is greater or smaller by comparing
+Step3: Create a loop starts with arr[2] till n
+Step4: Check for arr[i] > max , update ( max)
+Step5: Check for arr[i] < min, update (min)
 #include <iostream>
 using namespace std;
 int main() {
