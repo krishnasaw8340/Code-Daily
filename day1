@@ -1,3 +1,5 @@
+Find Minimum or Maximum with minimum no of comparision:
+
 // METHOD 1 
 // Algorithm:
 Step1: Take arr[0] and arr[1] as a min & max;
